@@ -1929,10 +1929,6 @@ etc/firmware/ice40.bin
 bin/cnss-daemon
 bin/cnss_diag
 bin/fstman
-lib/modules/pronto/pronto_wlan.ko
-
-# Kernel modules
-lib/modules/exfat.ko
 
 # mdtp
 vendor/lib64/libmdtp.so
