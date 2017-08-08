@@ -47,6 +47,7 @@ ro.btconfig.if=smd
 ro.btconfig.dev=/dev/smd3
 ro.btconfig.vendor=qcom
 ro.btconfig.chip=WCN3680
+qcom.bluetooth.soc=smd
 
 # Camera
 # Additional buffers shared between Camera and Video
