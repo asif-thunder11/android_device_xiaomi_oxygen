@@ -1929,6 +1929,8 @@ etc/firmware/ice40.bin
 bin/cnss-daemon
 bin/cnss_diag
 bin/fstman
+etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin
+etc/firmware/wlan/prima/WCNSS_wlan_dictionary.dat
 
 # mdtp
 vendor/lib64/libmdtp.so
