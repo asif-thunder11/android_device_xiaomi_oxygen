@@ -262,6 +262,7 @@ ro.config.zram=true
 ro.cutoff_voltage_mv=3400
 
 #fingerprint vendor set
+ro.hardware.fingerprint=fpc
 ro.hardware.fp.fpc=true
 ro.hardware.fp.goodix=true
 
