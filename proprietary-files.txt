@@ -1944,8 +1944,6 @@ bin/mmbn-daemon
 bin/mmi
 bin/mtd
 bin/ptt_socket_app
-bin/smonsir
-bin/smprosrv
 bin/ssr_diag
 bin/ssr_setup
 bin/subsystem_ramdump
